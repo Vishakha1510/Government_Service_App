@@ -39,7 +39,7 @@ Welcome to the **Government Service App**! This app is designed to provide easy 
 ### Steps to Install
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/government-service-app.git
+   git clone https://github.com/Vishakha1510/Government_Service_App.git
    ```
 2. Navigate to the project directory:
    ```bash
