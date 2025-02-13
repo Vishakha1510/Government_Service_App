@@ -16,10 +16,15 @@ Welcome to the **Government Service App**! This app is designed to provide easy 
 ## Screenshots
 
 ![Home Screen](Screenshots/1.jpg)
+
 ![Home Screen](Screenshots/2.jpg)
+
 ![Popupmenu Button](Screenshots/3.jpg)
+
 ![Detail Screen bookmarked](Screenshots/4.jpg)
+
 ![Book mark screen](Screenshots/5.jpg)
+
 ![Bookmark screen empty](Screenshots/6.jpg)
 
 
